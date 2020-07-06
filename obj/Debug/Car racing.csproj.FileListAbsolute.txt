@@ -1,0 +1,10 @@
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\bin\Debug\Car racing.exe.config
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\bin\Debug\Car racing.exe
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\bin\Debug\Car racing.pdb
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\obj\Debug\Car racing.csprojAssemblyReference.cache
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\obj\Debug\Car_racing.Form1.resources
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\obj\Debug\Car_racing.Properties.Resources.resources
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\obj\Debug\Car racing.csproj.GenerateResource.cache
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\obj\Debug\Car racing.csproj.CoreCompileInputs.cache
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\obj\Debug\Car racing.exe
+E:\Visual studio repos\ehlel geriin daalgavar\carracing\Car racing\obj\Debug\Car racing.pdb
